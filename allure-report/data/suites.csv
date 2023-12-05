@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Dec 04 16:14:54 PST 2023","Mon Dec 04 16:15:01 PST 2023","6955","Suite","TestChrome","runner.TestRunner","runner.TestRunner","runScenario","Runs Cucumber Scenarios",""
+"passed","Mon Dec 04 16:15:39 PST 2023","Mon Dec 04 16:15:49 PST 2023","10206","Suite","Testedge","runner.TestRunner","runner.TestRunner","runScenario","Runs Cucumber Scenarios",""
+"passed","Mon Dec 04 16:15:01 PST 2023","Mon Dec 04 16:15:39 PST 2023","37611","Suite","Testfirefox","runner.TestRunner","runner.TestRunner","runScenario","Runs Cucumber Scenarios",""
