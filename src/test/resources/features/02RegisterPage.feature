@@ -1,4 +1,4 @@
-@DsAlgoProject_SubM
+@DsAlgoProject_CBT
 Feature: Test Register Page
   I want to use this template for my feature file
 

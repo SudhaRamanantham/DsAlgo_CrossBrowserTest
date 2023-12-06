@@ -1,4 +1,4 @@
-@DsAlgoProject_SubM
+@DsAlgoProject_CBT
 Feature: Test Linked List Data Structure
   I want to use this template for my feature file
 

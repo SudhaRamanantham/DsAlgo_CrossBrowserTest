@@ -1,4 +1,4 @@
-@DsAlgoProject_SubM
+@DsAlgoProject_CBT
 Feature: Test Graph Datastructure
   I want to use this template for my feature file
 

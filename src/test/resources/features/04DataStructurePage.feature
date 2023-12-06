@@ -1,4 +1,4 @@
-@DsAlgoProject_SubM
+@DsAlgoProject_CBT
 Feature: DataStructuresintroduction
   I want to use this template for my feature file
 

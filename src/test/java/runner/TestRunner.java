@@ -11,9 +11,9 @@ import io.cucumber.testng.CucumberOptions;
 //@RunWith(Cucumber.class) //Junit execution
 
 @CucumberOptions(
-		plugin={"pretty", "html:target/DsAlgo_SubM.html","json:target/cucumber-report.json","com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}, //reporting purpose
+		plugin={"pretty", "html:target/Cucumber_DsAlgo_CBT.html","json:target/cucumber-report.json","com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}, //reporting purpose
 		monochrome = false, // console output color
-		tags = "@HomePageTest", // tags from feature file
+		tags = "@ArraysWithCorrectInput", // tags from feature file
 		dryRun = !true, //To add new method give true
 		features = { "src/test/resources/features" }, // location of feature files
 		glue = {"stepDefinition","ApplicationHooks","Utilities"}) // location of step definition files
